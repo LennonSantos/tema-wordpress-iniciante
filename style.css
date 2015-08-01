@@ -1,0 +1,16 @@
+/*
+
+Theme Name: Lennon Theme
+Description: começando com wordpress
+Author: Lennon Santos
+Version: 0.1
+
+*/
+
+*{margin: 0; padding: 0;}
+
+body{
+	background-color: #ecf0f1;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+}
