@@ -74,7 +74,57 @@
 			</section>
 
 		</div> <!-- #content -->
+
+		<aside>
+			
+			<section id="vistos">
+				mais vistos
+			</section>
+
+			<section id="colunista">
+				colunista
+			</section>
+
+			<section id="publicidade">
+				publicidade
+			</section>
+
+			<section id="coment">
+				mais comentados
+			</section>
+
+			<section id="facebook">
+				facebook
+			</section>
+
+		</aside>
+
 	</section> <!-- #container -->
+
+	<footer>
+
+		<div id="footer-content">
+		
+			<section id="sobre">
+				sobre nois
+			</section>
+
+			<section id="paginas">
+				paginas
+			</section>
+
+			<section id="recetes">
+				post recentes
+			</section>
+
+			<div id="footer-info">
+				footer info
+			</div>
+
+		</div> <!-- #footer-content -->
+
+	</footer> 
+
 <?php wp_footer(); ?>
 </body>
 </html>
